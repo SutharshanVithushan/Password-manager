@@ -1,0 +1,14 @@
+
+
+====================
+        Help
+====================
+
+	PassGen		Starts The Password Generator
+	Help		Displays This Message
+	ClPass		Clears Your Password Database
+	CrPas		Allows You To Save Your Own Password
+	Exit		Exit
+
+
+	
